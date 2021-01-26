@@ -1,0 +1,4 @@
+# Project exclude paths
+/venv/
+/venv3/
+/venv5/
